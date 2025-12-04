@@ -13,7 +13,7 @@ public class Medikit_Login_TestCase_1 extends BaseClass
 	
 	
 @Test()
-public <Assertion> void registratioForm()
+public void registratioForm()
 {
 	
 	
