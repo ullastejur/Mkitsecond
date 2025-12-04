@@ -23,7 +23,7 @@ public void registratioForm()
 	lp.EmailTextfeild();
 	lp.RegisterButton();
 	
-	//Assert.assertEquals(driver.getTitle(), "My Account | Medikart HealthCare - India’s trustworthy online store for healthcare products");
+	
 	
 	
 }
