@@ -1,7 +1,7 @@
 package Medikit.MedikitProgram;
 
 import java.time.Duration;
-import org.testng.annotations;
+
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebDriver.Timeouts;
