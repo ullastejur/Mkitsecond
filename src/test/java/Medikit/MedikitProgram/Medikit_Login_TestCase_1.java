@@ -1,7 +1,7 @@
 package Medikit.MedikitProgram;
 
 import  org.testng.Assert.assertEquals;
-
+import static org.testng.Assert.assertEquals;
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Listeners;
